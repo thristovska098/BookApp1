@@ -1,7 +1,7 @@
 import AddBook from './add-book/AddBook';
 
 function App() {
-  return (<AddBook/>);
+  return <AddBook/>;
 }
 
 export default App;
